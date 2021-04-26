@@ -1,6 +1,8 @@
 import mediapipe as mp
 from HandTrackingModule import *
 import sys
+import cv2
+
 
 
 
